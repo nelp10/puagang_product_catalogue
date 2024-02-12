@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Name": "Android Phone",
+        "discription": "Android",
+        "price": "12,000"
+    },
+    {
+        "id": 2,
+        "Name": "PC",
+        "discription": "full package",
+        "price": "40,000"
+    },
+    {
+        "id": 3,
+        "Name": "earpods",
+        "discription": "wired and wireless",
+        "price": "1,000"
+    }
+]
